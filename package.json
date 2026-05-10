@@ -1,0 +1,29 @@
+{
+  "name": "football2enjoy",
+  "version": "1.0.0",
+  "description": "MY LIFE IS SOCCER - Voetbalschool website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000",
+    "build": "echo 'This is a static site, no build needed'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "voetbal",
+    "training",
+    "breda",
+    "kinderen",
+    "jeugd"
+  ],
+  "author": "MY LIFE IS SOCCER",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/votre-username/football2enjoy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/votre-username/football2enjoy/issues"
+  },
+  "homepage": "https://github.com/votre-username/football2enjoy#readme"
+}
